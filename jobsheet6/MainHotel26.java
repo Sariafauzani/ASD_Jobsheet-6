@@ -6,7 +6,7 @@ public class MainHotel26 {
 
         Hotel26 H1 = new Hotel26("Hotel 1", "Nganjuk", 120000, (byte) 5);
         Hotel26 H2 = new Hotel26("Hotel 2", "Surabaya", 125000, (byte) 4);
-        Hotel26 H3 = new Hotel26("Hotel 3", "Malang", 130000, (byte) 5);
+        Hotel26 H3 = new Hotel26("Hotel 3", "Malang", 130000, (byte) 3);
 
         listhotels.tambah(H1);
         listhotels.tambah(H2);
